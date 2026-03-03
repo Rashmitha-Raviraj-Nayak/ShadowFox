@@ -5,6 +5,7 @@ Repository contains tasks, projects, and practice work completed during the Shad
 <img width="1253" height="760" alt="Inventory Management System with Basic GUI-output" src="https://github.com/user-attachments/assets/16166ff6-2543-4df4-8571-c9a9008f0216" />
 <img width="1759" height="1021" alt="Simple Contact Management System-output" src="https://github.com/user-attachments/assets/adbbceb1-f9ee-4d7b-8625-343cce05189f" />
 <img width="997" height="760" alt="output1" src="https://github.com/user-attachments/assets/dee48480-e81c-4978-96a4-41f6855421ea" />
-![Uploading output2.png…]()
-<img width="989" height="740" alt="output3" src="https://github.com/user-attachments/assets/5c3f2983-c1c5-4047-9934-33b8be034a22" />
-![Uploading output4.png…]()
+
+<img width="989" height="740" alt<img width="1040" height="787" alt="output2" src="https://github.com/user-attachments/assets/eed2362f-aa65-438d-b8e5-a3056191e48d" />
+="output3" src="https://github.com/user-attachments/assets/5c3f2983-c1c5-4047-9934-33b8be034a22" />
+<img width="1001" height="763" alt="output4" src="https://github.com/user-attachments/assets/1d93924f-4313-4e68-9257-833d5a8aa706" />
