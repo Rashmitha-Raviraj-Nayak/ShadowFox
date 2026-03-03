@@ -1,0 +1,20 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+package calculator.conversion;
+
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
+public class CurrencyConverter {
+   private static final BigDecimal USD_TO_INR = new BigDecimal("83.00");
+
+   public CurrencyConverter() {
+   }
+
+   public static BigDecimal usdToInr(BigDecimal var0) {
+      return var0.multiply(USD_TO_INR).setScale(2, RoundingMode.HALF_UP);
+   }
+
+   public static BigDecimal inrToUsd(BigDecimal var0) {
+      return var0.divide(USD_TO_INR, 2, RoundingMode.HALF_UP);
+   }
+}
