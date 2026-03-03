@@ -7,5 +7,6 @@ Repository contains tasks, projects, and practice work completed during the Shad
 <img width="997" height="760" alt="output1" src="https://github.com/user-attachments/assets/dee48480-e81c-4978-96a4-41f6855421ea" />
 
 <img width="989" height="740" alt<img width="1040" height="787" alt="output2" src="https://github.com/user-attachments/assets/eed2362f-aa65-438d-b8e5-a3056191e48d" />
-="output3" src="https://github.com/user-attachments/assets/5c3f2983-c1c5-4047-9934-33b8be034a22" />
+
 <img width="1001" height="763" alt="output4" src="https://github.com/user-attachments/assets/1d93924f-4313-4e68-9257-833d5a8aa706" />
+<img width="989" height="740" alt="output3" src="https://github.com/user-attachments/assets/334fda69-0b89-4926-b993-a9963bb544ff" />
